@@ -1,0 +1,8 @@
+:::::::::::::::  DESCRIÇÃO DOS DADOS :::::::::::::::
+
+Compreende sinais de PPG adquiridos de:
+27 indivíduos saudáveis (ctrk_01 - ctrl27)
+30 Indivíduos com diabetes tipo 2 (pt_01 - Pt_30)
+6 Sinais para validação (V1d - V6c), onde d indica diabetes e c indica controle.
+EMG amostrados @ 2ksamples/s
+Os sinais foram adquiridos em condições de 30% da MVIC (Máxima contração isométrica voluntária)
